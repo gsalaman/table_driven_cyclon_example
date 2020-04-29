@@ -56,7 +56,7 @@ If we're currently going right:
   otherwise, copy all lights one slot right.
 else (we're currently going left):
   if we're on the left edge, reverse direction.
-  otherwise, copy aall lights one slot left.
+  otherwise, copy all lights one slot left.
 ```
   
 
