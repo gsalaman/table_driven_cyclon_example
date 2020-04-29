@@ -43,6 +43,7 @@ Inside loop:
     * move the lights either one click left or right, depending on direction
 ```
 The functions for button press and speed update stay the same.
+
 If we had a single delay time, we could just use the existng cylonDelay varable to determine if it's tiime for an update.
 However, since we want the cylon to "slow down" at the edges, we need an additional "current delay" variable that is set by the "showLEDs function".  This variable set replaces the existing delays.
 
