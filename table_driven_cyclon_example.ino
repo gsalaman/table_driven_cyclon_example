@@ -75,7 +75,7 @@ typedef struct
 
 cylon_palette_type cylon_palette[]=
 {
-  // bright      med              dim
+  // bright        med                dim
   {COLOR_RED,     COLOR_RED_MED,     COLOR_RED_DIM},      // mode 0...currently unused as logic is "1" based
   {COLOR_RED,     COLOR_RED_MED,     COLOR_RED_DIM},      // mode 1
   {COLOR_GREEN,   COLOR_GREEN_MED,   COLOR_GREEN_DIM},    // mode 2
